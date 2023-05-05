@@ -40,9 +40,9 @@ go run httpd/main.go
 3. Open `http://localhost:4200` in your web browser to access PropertyProbe.
 
 
-### Frontend Enginers:
+### Frontend Engineers:
 Jacob Kanfer, Akshay Ashok
 
-### Backend Enginers:
+### Backend Engineers:
 Carson Schmidt, Julien Wakim
 
